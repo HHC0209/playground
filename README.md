@@ -1,0 +1,2 @@
+# playground
+Some stupid projects.
